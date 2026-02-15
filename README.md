@@ -201,11 +201,6 @@ This is highly relevant for:
 
 ---
 
-GitHub: https://github.com/ltorresgarcia00  
-LinkedIn: https://www.linkedin.com/in/leoneltorresgarcia/
-
----
-
 # ⚠️ Note
 
 This toolkit is intended for educational and portfolio purposes to simulate IT diagnostic workflows.
